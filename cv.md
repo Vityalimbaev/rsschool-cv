@@ -31,6 +31,9 @@ func factorialUsingLoop(n int) int64 {
 My Android app for photo processing
 https://bitbucket.org/vityalimbaev/photoeditor/src/master/
 
+My pet project of a client-server chat application (kotlin) on Firebase: 
+https://github.com/Vityalimbaev/ChatApp
+
 ## Education 
 Graduated from SSU in 2020 (CS&IT, computer science and engineering). Entered the master's program in 2020 (computer science and engineering).
 
